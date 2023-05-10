@@ -1,0 +1,7 @@
+package practise.design.patterns;
+ public class ACB {
+
+     public static void main(String[] args) {
+                //dummy class
+     }
+ }
